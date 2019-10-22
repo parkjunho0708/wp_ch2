@@ -1,0 +1,12 @@
+h1 {
+	font-size: 32px;
+	font-family: 돋움;
+	color: #06f;
+}
+body{
+	padding: 0;
+	margin: 0;
+	font-size: 12px;
+	font-family: arial, helvertica, sans-serif;
+	color: #333;
+}
